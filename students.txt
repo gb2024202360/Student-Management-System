@@ -1,0 +1,39 @@
+# Student Management System
+## Description
+A console-based Student Management System developed in C++.
+The application manages student records using file handling and
+menu-driven operations.
+## Features
+- Add student
+- Display students
+- Search student
+- Update student
+- Delete student
+- Store student records permanently using file handling
+- Menu-driven interface
+## Student Details
+The system stores:
+- Student ID
+- Student Name
+- Age
+- Course
+- Marks
+## Technologies Used
+- C++
+- File Handling
+- Object-Oriented Programming
+- Console Application
+## How to Run
+1. Download or clone the repository.
+2. Compile `main.cpp` using a C++ compiler.
+3. Run the program.
+4. Select an option from the menu.
+## File Storage
+Student records are stored in:
+`students.txt`
+The records remain saved even after the program is closed.
+## Expected Outcome
+A functional application that allows users to add, update, delete,
+search, and display student information with persistent data storage.
+## Author
+Bharath
